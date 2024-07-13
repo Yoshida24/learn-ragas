@@ -1,6 +1,6 @@
-# preset-python-venv
+# learn-ragas
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Yoshida24/preset-python-venv)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Yoshida24/learn-ragas)
 
 Preset for development on Python using venv.
 
