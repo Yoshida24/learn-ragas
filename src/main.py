@@ -1,9 +1,8 @@
-from modules.cowsay_demo.greeting import greet_to, greet_from_env
+import modules.ragas.hello_ragas as hello_ragas
 
 
 def main():
-    # use argument to greet
-    greet_to(your_name="Alan")
+    hello_ragas.evaluate_const_param()
 
 
 if __name__ == "__main__":
