@@ -1,8 +1,11 @@
-import modules.ragas.hello_ragas as hello_ragas
+import modules.ragas_util.hello.evaluate as evaluate
+
+# import modules.ragas_util.dify.evaluate as evaluate
 
 
 def main():
-    hello_ragas.evaluate_const_param()
+    evaluate.evaluate_const_param()
+    # evaluate.evaluate_dify()
 
 
 if __name__ == "__main__":
